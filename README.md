@@ -16,5 +16,5 @@ El Dataset a emplear consta de 42 imágenes que se encuentran el directorio: Ima
 
 ## instalar dependencias 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
